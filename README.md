@@ -11,7 +11,7 @@ After that the signals got filtered using Fast Fourier Transformation (FFT) meth
 After that, to get useful features from that signal Power Spectral Density (PSD) method is used. 
 To calculate PSD, welch method is used. Then Random forest classifier is used for classification of the wheelchair movement. 
 For this purpose, a publicly available dataset from Kaggle is used (Link - https://www.kaggle.com/datasets/fabriciotorquato/eeg-data-from-hands-movement).
-we have achieve a good accuracy.
+we have achieved a good accuracy.
 
 We have first divided users data based on their movement , namely 0 ,1 and 2. This only contains dataset for user a.
 
